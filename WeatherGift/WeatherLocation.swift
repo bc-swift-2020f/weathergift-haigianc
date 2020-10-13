@@ -18,4 +18,7 @@ class WeatherLocation: Codable{
         self.latitude = latitude
         self.longitude = longitude
     }
+    
+    
+    
 }
